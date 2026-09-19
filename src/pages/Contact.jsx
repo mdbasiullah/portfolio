@@ -55,20 +55,20 @@ const Contact = () => {
             <FaEnvelope className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Email</h3>
             <p className="text-gray-400 break-all">
-              yurajshingh70@gmail.com
+              mdbasiullah0@gmail.com
             </p>
           </div>
 
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-6 text-center">
             <FaPhoneAlt className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Phone</h3>
-            <p className="text-gray-400">+91 9798295992</p>
+            <p className="text-gray-400">+91 7011707086</p>
           </div>
 
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-6 text-center">
             <FaMapMarkerAlt className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Location</h3>
-            <p className="text-gray-400">Saran, Bihar</p>
+            <p className="text-gray-400">Darbhanga, Bihar</p>
           </div>
         </div>
 
@@ -136,7 +136,7 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="https://github.com/Yuvrajcode1"
+                href="https://github.com/mdbasiullah"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"
@@ -146,7 +146,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/yuvraj-kumar-326272320"
+                href="https://www.linkedin.com/in/mdbasiullah"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"
@@ -156,7 +156,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://www.instagram.com/yuvrazrazputt"
+                href="https://www.instagram.com/_rehaansheikh"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"
@@ -171,7 +171,7 @@ const Contact = () => {
 
       {/* WhatsApp Button */}
       <a
-        href="https://wa.me/919798295992?text=Hi%20Yuvraj,%20I%20want%20to%20connect%20with%20you."
+        href="https://wa.me/7011707086?text=Hi%20Basiullah,%20I%20want%20to%20connect%20with%20you."
         target="_blank"
         rel="noreferrer"
         className="fixed bottom-6 right-6 w-14 h-14 bg-green-500 rounded-full flex items-center justify-center text-white text-3xl shadow-lg hover:scale-110 transition-all duration-300"
